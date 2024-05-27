@@ -1,4 +1,8 @@
 ## Hi there 👋
+- 🔭 I’m currently working on analysis of medical images
+- 🌱 I’m currently learning Transformers and diffusion models 
+- 👯 I’m looking to collaborate on LLM for parallel processing and HPC 
+
 
 <!--
 **sofia4009/sofia4009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
