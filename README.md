@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on analysis of medical images
-- 🌱 I’m currently learning Transformers and diffusion models 
+- 🌱 I am conducting experiments with Transformers and Diffusion models
 - 👯 I’m looking to collaborate on LLM for parallel processing and HPC 
 
 
